@@ -1,1 +1,1 @@
-# ansible-callbacks
+# Plugins for Ansible
